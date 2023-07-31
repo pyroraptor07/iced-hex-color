@@ -1,7 +1,7 @@
 # iced-hex-color
-![Crates.io](https://img.shields.io/crates/l/iced-hex-color?style=flat-square)
-![Crates.io](https://img.shields.io/crates/d/iced-hex-color?style=flat-square)
-![docs.rs](https://img.shields.io/docsrs/iced-hex-color/latest?style=flat-square)
+[![Crates.io](https://img.shields.io/crates/l/iced-hex-color?style=flat-square)](https://github.com/pyroraptor07/iced-hex-color/blob/main/LICENSE)
+[![Crates.io](https://img.shields.io/crates/v/iced-hex-color?style=flat-square)](https://crates.io/crates/iced-hex-color)
+[![docs.rs](https://img.shields.io/docsrs/iced-hex-color/latest?style=flat-square)](https://docs.rs/iced-hex-color/latest/iced_hex_color/)
 
 This crate contains a few utility macros for generating Iced color structs
 from standard hex color codes.
