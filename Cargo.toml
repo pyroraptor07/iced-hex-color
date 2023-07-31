@@ -1,0 +1,20 @@
+[package]
+name = "iced-hex-color"
+version = "0.1.0"
+edition = "2021"
+authors = ["Matt George <pyroraptor07@gmail.com"]
+license = "MIT"
+description = "Generate Iced color structs using hex color codes"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+proc-macro2 = "1.0.0"
+quote = "1.0.0"
+syn = { version = "2.0.0", features = ["full"] }
+hex_color = "2.0.0"
+
+[dev-dependencies]
+iced = "0.10"
+iced_core = "0.10"
