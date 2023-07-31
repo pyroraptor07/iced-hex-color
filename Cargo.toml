@@ -5,6 +5,9 @@ edition = "2021"
 authors = ["Matt George <pyroraptor07@gmail.com"]
 license = "MIT"
 description = "Generate Iced color structs using hex color codes"
+repository = "https://github.com/pyroraptor07/iced-hex-color"
+keywords = ["iced", "hex", "color"]
+categories = ["graphics", "gui"]
 
 [lib]
 proc-macro = true
